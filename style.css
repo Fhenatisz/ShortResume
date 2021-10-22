@@ -1,0 +1,32 @@
+p
+{
+	color:white;
+}
+
+body
+{
+	background-color:grey;
+}
+
+div.first
+{
+	background-color:red;
+	font-family:Arial;
+}
+
+div.second
+{
+	background-color:green;
+	font-family:Helvetica;
+}
+
+div.third
+{
+	background-color:blue;
+	font-family:Verdana;
+}
+
+div.fourth
+{
+	background-color:yellow;
+}
